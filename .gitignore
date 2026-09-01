@@ -5,6 +5,7 @@
 
 #라이더 설정파일
 .idea
+.idea/
 
 .utmp/
 /[Ll]ibrary/
